@@ -1,0 +1,1 @@
+Embark on a comprehensive learning path to understand Docker and containerization, beginning with foundational concepts and installation procedures. Progress through hands-on exercises that cover essential Docker commands, image creation, and container orchestration.

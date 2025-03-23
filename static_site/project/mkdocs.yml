@@ -1,0 +1,35 @@
+site_name: My Docs
+nav:
+  - About Google Docs:
+     - What is the Docker?: docker-overview.md
+     - Introduction: intro/index.md 
+     - Get Docker Desktop: intro/get-docker-desktop.md
+     - Develop with containers: intro/develop-with-containers.md
+  - Create document: 
+      - Create document from Google Docs: create-document/from-google-docs.md
+      - Create document from Google Drive: create-document/from-google-drive.md
+      - Create document from File menu: create-document/from-file-menu.md
+  - Download document: download-document.md
+  - Print document: print-document.md
+  - Manage access: manage-access.md
+  - Manage page settings: manage-page-settings.md
+  - Format text: format-text.md
+  - Manage add-ons: manage-add-ons.md
+
+theme:
+  name: material
+  logo: image/transparent.png
+  features:
+    - navigation.indexes
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.footer 
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+    
+    
+
+    
