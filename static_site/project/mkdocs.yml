@@ -1,11 +1,12 @@
 site_name: My Docs
 nav:
   - About Google Docs:
-     - What is the Docker?: docker-overview.md
+     - About Google Docs: about-google-docs.md
      - Introduction: intro/index.md 
      - Get Docker Desktop: intro/get-docker-desktop.md
      - Develop with containers: intro/develop-with-containers.md
-  - Create document: 
+  - Create document:
+      - Create document: create-document/create-document.md 
       - Create document from Google Docs: create-document/from-google-docs.md
       - Create document from Google Drive: create-document/from-google-drive.md
       - Create document from File menu: create-document/from-file-menu.md
@@ -24,11 +25,22 @@ theme:
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.footer 
+    - content.tabs.link
 
 markdown_extensions:
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
+  - sane_lists
+
+extra_css:
+  - stylesheets/extra.css
     
     
 
