@@ -5,11 +5,11 @@
 
 ![Image title](../image/from-file.png)
 
-3. Click **New** to choose the type of a new document: 
+3. Click <img src="/image/new6.png" class="emoji-icon"> **New** to choose the type of a new document: 
 
 ![Image title](../image/from-file2.png)
 
-- Click **Document** to open a blank document.
-- Click **From a template** to choose the necessary type of the template. 
+- Click <img src="/image/new6.png" class="emoji-icon">    **Document** to open a blank document.
+- Click <img src="/image/new3.png" class="emoji-icon"> **From a template** to choose the necessary type of the template. 
 
 Your document is created. 

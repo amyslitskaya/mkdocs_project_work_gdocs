@@ -4,7 +4,7 @@
 
 ![Image title](../image/settings.png)
 
-2. Click **Page setup** to adjust settings to the document layout:
+2. Click <img src="/image/new9.png" class="emoji-icon"> **Page setup** to adjust settings to the document layout:
 
 ![Image title](../image/settings2.png)
 

@@ -41,7 +41,7 @@ C. Click the **Restricted** list to choose the link access level:
 
 - Click **Editor** to allow the person to make changes to the document. 
 
-D. Click **Settings** to manage permissions for the viewer, commenter, and editor roles: 
+D. Click <img src="/image/new8.png" class="emoji-icon">  **Settings** to manage permissions for the viewer, commenter, and editor roles: 
 
 ![Image title](../image/access5.png)
 
@@ -49,7 +49,7 @@ D. Click **Settings** to manage permissions for the viewer, commenter, and edito
 
 - Select the **Viewers and commenters can see the option to download, print, and copy** checkbox to restrict to download, print, and copy the document.   
 
-E. Click **Copy link** to copy the document to your clipboard.
+E. Click <img src="/image/new5.png" class="emoji-icon">  **Copy link** to copy the document to your clipboard.
 
 F. Click **Done** to save the changes in the **Share** form. 
 

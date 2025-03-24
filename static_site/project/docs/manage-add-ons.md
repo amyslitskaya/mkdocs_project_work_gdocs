@@ -34,7 +34,7 @@ The add-on is added to your document in Google Docs.
 
 ![Image title](../image/extension2.png)
 
-3. Click **Options** next to the add-on name. Then choose the necessary options for add-on managing: 
+3. Click <img src="/image/new10.png" class="emoji-icon"> **Options** next to the add-on name. Then choose the necessary options for add-on managing: 
 
 ![Image title](../image/extension3.png)
 

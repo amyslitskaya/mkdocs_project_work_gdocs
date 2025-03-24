@@ -6,7 +6,7 @@
 ![Image title](../image/google-drive.png)
 
 
-3. Click **Google Docs** to choose the type of a new document:
+3. Click <img src="/image/new6.png" class="emoji-icon"> **Google Docs** to choose the type of a new document:
 
 ![Image title](../image/google-drive2.png)
 

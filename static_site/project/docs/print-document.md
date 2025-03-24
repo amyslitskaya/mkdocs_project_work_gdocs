@@ -6,7 +6,7 @@ It is required to connect the printer to your device before printing the documen
 
 ![Image title](../image/print.png)
 
-2. Click **Print**. 
+2. Click <img src="/image/new4.png" class="emoji-icon">  **Print**. 
 
 ![Image title](../image/print2.png)
 
