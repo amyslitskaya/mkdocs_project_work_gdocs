@@ -1,12 +1,8 @@
-site_name: My Docs
+site_name: Google Docs guide
 nav:
-  - About Google Docs:
-     - About Google Docs: about-google-docs.md
-     - Introduction: intro/index.md 
-     - Get Docker Desktop: intro/get-docker-desktop.md
-     - Develop with containers: intro/develop-with-containers.md
+  - About Google Docs: about-google-docs.md
   - Create document:
-      - Create document: create-document/create-document.md 
+      - Create document in Google Docs: create-document/create-document.md 
       - Create document from Google Docs: create-document/from-google-docs.md
       - Create document from Google Drive: create-document/from-google-drive.md
       - Create document from File menu: create-document/from-file-menu.md
@@ -19,7 +15,12 @@ nav:
 
 theme:
   name: material
-  logo: image/transparent.png
+  logo: image/Google_Docs_Logo_512px.png
+  palette:
+    primary: white
+    accent: blue 
+    scheme: defauit
+  
   features:
     - navigation.indexes
     - navigation.tabs
