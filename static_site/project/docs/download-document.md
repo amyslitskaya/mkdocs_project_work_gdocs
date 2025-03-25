@@ -1,4 +1,4 @@
-**To download a document in Google Docs**: 
+**To download the document in Google Docs**: 
 
 1. Click **File** in the menu.
 

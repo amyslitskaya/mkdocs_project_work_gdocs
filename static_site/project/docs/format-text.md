@@ -1,14 +1,14 @@
 It is required to select the text you want to change before formatting the text. 
 
-**To format the text in Google Docs**: 
+**To format the text in Google Docs change the following options**: 
 
-- Change the font.
-- Change the font size.
-- Change the font type. 
-- Change the text color.
-- Change the highlight color. 
+- Font.
+- Font size.
+- Font type. 
+- Text color.
+- Highlight color. 
 
-**To change the font**: 
+**To change font**: 
 
 1. Click **Font**.
 
@@ -20,7 +20,7 @@ It is required to select the text you want to change before formatting the text.
 
 The necessary font is applied to your text. 
 
-**To change the font size**: 
+**To change font size**: 
 
 - Click **Decrease font size** to decrease the text size. 
 
@@ -36,7 +36,7 @@ The necessary font is applied to your text.
 
 The necessary font size is applied to your text.
 
-**To change the font type**: 
+**To change font type**: 
 
 - Click **Bold**, **Italic**, or **Underlined**. 
 
@@ -44,7 +44,7 @@ The necessary font size is applied to your text.
 
 Your text is displayed in the corresponding font type. 
 
-**To change the text color**:
+**To change text color**:
 
 1. Click **Text color**.
 
@@ -56,7 +56,7 @@ Your text is displayed in the corresponding font type.
 
 Your text color is changed. 
 
-**To change the highlight color**: 
+**To change highlight color**: 
 
 1. Click **Highlight color**.  
 

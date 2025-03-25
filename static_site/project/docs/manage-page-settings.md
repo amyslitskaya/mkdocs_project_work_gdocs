@@ -1,4 +1,4 @@
-**To manage the page settings in Google Docs**:
+**To manage page settings in Google Docs**:
 
 1. Click **File** in the menu. 
 
@@ -16,7 +16,7 @@ B. Click **Pageless** to apply the **Background color** option and the **Pageles
 
 ![Image title](../image/setup2.png)
 
-The page settings are managed. 
+Your page settings are managed. 
 
 
 
