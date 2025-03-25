@@ -28,7 +28,7 @@ The necessary font is applied to your text.
 
 - Click **Font size**. Then click the necessary number in the list.
 
-![Image title](../image/format4.png)
+![Image title](../image/fontsize1.png)
 
 - Click **Increase font size** to increase the text size. 
 

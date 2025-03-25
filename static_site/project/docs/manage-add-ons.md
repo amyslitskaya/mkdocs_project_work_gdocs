@@ -6,7 +6,7 @@ It is required to get the extension to your document before managing add-ons.
 
 ![Image title](../image/add-on.png)
 
-2. Click the **Add-ons** list. Then click **Get add-ons**. 
+2. Click <img src="/image/plus.png" class="emoji-icon"> **Add-ons**. Then click **Get add-ons**. 
 
 ![Image title](../image/add-on2.png)
 
@@ -30,11 +30,11 @@ The add-on is added to your document in Google Docs.
 
 ![Image title](../image/extension.png)
 
-2. Click **Add-ons**. Then click **Manage add-ons** to observe available add-ons in your Google Docs. 
+2. Click <img src="/image/plus.png" class="emoji-icon"> **Add-ons**. Then click **Manage add-ons** to observe available add-ons in your document. 
 
 ![Image title](../image/extension2.png)
 
-3. Click <img src="/image/new10.png" class="emoji-icon"> **Options** next to the add-on name. Then choose the necessary options for add-on managing: 
+3. Click <img src="/image/new10.png" class="emoji-icon"> **Options** next to the add-on's name. Then choose the necessary management option: 
 
 ![Image title](../image/extension3.png)
 
@@ -45,7 +45,7 @@ A. Click **Uninstall** to remove the add-on from your Google Docs. Then click **
 B. Click **Use in this document** to use the add-on from the **Extensions** menu in your document.  
 
 
-![Image title](../image/insert_icons.png)
+![Image title](../image/extension_new.png)
 
 - Click **Insert icons for Docs**. Then click **Open sidebar to select icons** to open the sidebar with the add-on. 
 
