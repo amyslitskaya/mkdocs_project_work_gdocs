@@ -11,6 +11,11 @@ nav:
   - Manage access: manage-access.md
   - Manage page settings: manage-page-settings.md
   - Format text: format-text.md
+  - Insert different types of content: 
+      - Insert different types of content: insert-different-types-of-content/insert-different-types-of-content.md
+      - Insert images: insert-different-types-of-content/insert-images.md
+      - Insert tables: insert-different-types-of-content/insert-tables.md
+      - Insert charts: insert-different-types-of-content/insert-charts.md
   - Manage add-ons: manage-add-ons.md
 
 theme:

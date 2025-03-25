@@ -42,12 +42,12 @@ A. Click **Uninstall** to remove the add-on from your Google Docs. Then click **
 
 ![Image title](../image/installation.png)
 
-B. Click **Use in this document** to use the add-on from the **Extensions** menu in your document.  
+B. Click **Use in this document** to use the add-on from the **Extensions** menu in your document:  
 
 
 ![Image title](../image/extension_new.png)
 
-- Click **Insert icons for Docs**. Then click **Open sidebar to select icons** to open the sidebar with the add-on. 
+- Click **Insert icons for Docs**. Then click **Open sidebar to select icons** to open the sidebar with your add-on. 
 
 ![Image title](../image/insert_icons2.png)
 
