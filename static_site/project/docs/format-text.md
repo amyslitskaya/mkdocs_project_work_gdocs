@@ -1,20 +1,12 @@
 It is required to select the text you want to change before formatting the text. 
 
-**To format the text in Google Docs change the following options**: 
-
-- Font.
-- Font size.
-- Font type. 
-- Text color.
-- Highlight color. 
-
 **To change font**: 
 
 1. Click **Font**.
 
 ![Image title](../image/format.png) 
 
-2. Click the font name option in the list.
+2. Click **Font** in the list.
 
 ![Image title](../image/format2.png)
 
