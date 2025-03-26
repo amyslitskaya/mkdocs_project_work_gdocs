@@ -1,4 +1,4 @@
-It is required to select the text you want to change before formatting the text. 
+It is required to select the text you want to change before formatting the text in Google Docs. 
 
 **To change font**: 
 

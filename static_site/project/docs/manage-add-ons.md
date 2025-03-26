@@ -1,4 +1,4 @@
-  **To get the add-on in Google Docs**:
+**To get the add-on in Google Docs**:
 
 1. Click **Extensions** in the menu.
 
@@ -42,25 +42,23 @@ A. Click **Uninstall** to remove the add-on from your Google Docs. Then click **
 
 B. Click **Use in this document** to use the add-on from the **Extensions** menu in your document:  
 
-
 ![Image title](../image/extension_new.png)
 
 - Click **Insert icons for Docs**. Then click **Open sidebar to select icons** to open the sidebar with your add-on. 
 
 ![Image title](../image/insert_icons2.png)
 
- The sidebar with the add-on is opened in your document. 
+The sidebar with the add-on is opened in your document. 
 
- C. Click **Help** to get additional information about your add-on:
+C. Click **Help** to get additional information about your add-on:
 
-  ![Image title](../image/help.png)
+![Image title](../image/help.png)
 
 - Click **View in store** to get information about the add-on’s overview, permissions, and reviews. 
 
 - Click **Report an issue** to describe the problems with your add-on by e-mail. 
 
 D. Click **Report an issue** to describe the problems with your add-on by e-mail. Then click **Send**.
-
 
 ![Image title](../image/send.png)
 

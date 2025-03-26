@@ -2,7 +2,7 @@ site_name: Google Docs guide
 nav:
   - About Google Docs: about-google-docs.md
   - Create document:
-      - Create document in Google Docs: create-document/create-document.md 
+      - Create document: create-document/create-document.md 
       - Create document from Google Docs: create-document/from-google-docs.md
       - Create document from Google Drive: create-document/from-google-drive.md
       - Create document from File menu: create-document/from-file-menu.md
@@ -37,7 +37,6 @@ markdown_extensions:
   - def_list
   - pymdownx.tasklist:
       custom_checkbox: true
-  - admonition
   - pymdownx.details
   - pymdownx.superfences
   - attr_list

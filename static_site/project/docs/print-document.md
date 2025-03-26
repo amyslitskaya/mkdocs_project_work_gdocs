@@ -1,6 +1,6 @@
 It is required to connect the printer to your device before printing the document. 
 
-**To print the document**:
+**To print the document in Google Docs**:
 
 1. Click **File** in the menu.
 
