@@ -1,4 +1,4 @@
-**To insert tables in Google Docs**:
+**To insert a table in Google Docs**:
 
 1. Click **Insert** in the menu. 
 

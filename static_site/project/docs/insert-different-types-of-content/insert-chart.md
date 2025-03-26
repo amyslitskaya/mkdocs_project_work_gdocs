@@ -1,4 +1,4 @@
-**To insert charts in Google Docs**: 
+**To insert a chart in Google Docs**: 
 
 1. Click **Insert** in the menu. 
 

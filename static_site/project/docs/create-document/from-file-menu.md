@@ -9,7 +9,7 @@
 
 ![Image title](../image/from-file2.png)
 
-- Click <img src="/image/new6.png" class="emoji-icon">    **Document** to open a blank document.
+- Click <img src="/image/new6.png" class="emoji-icon"> **Document** to open a blank document.
 - Click <img src="/image/new3.png" class="emoji-icon"> **From a template** to choose the necessary type of the template. 
 
 Your document is created. 

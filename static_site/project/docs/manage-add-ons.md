@@ -1,6 +1,4 @@
-It is required to get the extension to your document before managing add-ons.  
-
-**To get the add-on in Google Docs**:
+  **To get the add-on in Google Docs**:
 
 1. Click **Extensions** in the menu.
 
